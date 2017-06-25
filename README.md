@@ -129,8 +129,8 @@ If you want to be a reliability engineer or systems engineer, study more from th
     - [Compilers](#compilers)
     - [Emacs and vi(m)](#emacs-and-vim)
     - [Unix command line tools](#unix-command-line-tools)
-    - [Information theory](#information-theory)
-    - [Parity & Hamming Code](#parity--hamming-code)
+    - [Information theory](#information-theory-videos)
+    - [Parity & Hamming Code](#parity--hamming-code-videos)
     - [Entropy](#entropy)
     - [Cryptography](#cryptography)
     - [Compression](#compression)
@@ -145,7 +145,6 @@ If you want to be a reliability engineer or systems engineer, study more from th
     - [Locality-Sensitive Hashing](#locality-sensitive-hashing)
     - [van Emde Boas Trees](#van-emde-boas-trees)
     - [Augmented Data Structures](#augmented-data-structures)
-    - [N-ary (K-ary, M-ary) trees](#n-ary-k-ary-m-ary-trees)
     - [Balanced search trees](#balanced-search-trees)
         - AVL trees
         - Splay trees
@@ -160,8 +159,8 @@ If you want to be a reliability engineer or systems engineer, study more from th
     - [Disjoint Sets & Union Find](#disjoint-sets--union-find)
     - [Math for Fast Processing](#math-for-fast-processing)
     - [Treap](#treap)
-    - [Linear Programming](#linear-programming)
-    - [Geometry, Convex hull](#geometry-convex-hull)
+    - [Linear Programming](#linear-programming-videos)
+    - [Geometry, Convex hull](#geometry-convex-hull-videos)
     - [Discrete math](#discrete-math)
     - [Machine Learning](#machine-learning)
 - [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
@@ -1416,9 +1415,9 @@ Challenge repos:
 - [Interactive Coding Interview Challenges in Python](https://github.com/donnemartin/interactive-coding-challenges)
 
 Mock Interviews:
-- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/)
-- [Pramp: Mock interviews from/with peers](https://www.pramp.com/)
-- [Refdash: Mock interviews](https://refdash.com/)
+- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/) - I used this and it helped me relax for the phone screen and on-site interview.
+- [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - peer-to-peer model of practice interviews
+- [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies.
 
 ## Once you're closer to the interview
 
@@ -1715,7 +1714,7 @@ software engineer, and to be aware of certain technologies and algorithms, so yo
             hashcodes, a Red-Black tree is used.
         - [ ] [Aduni - Algorithms - Lecture 4 (link jumps to starting point) (video)](https://youtu.be/1W3x0f_RmUo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3871)
         - [ ] [Aduni - Algorithms - Lecture 5 (video)](https://www.youtube.com/watch?v=hm2GHwyKF1o&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=5)
-        - [ ] [Black Tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
+        - [ ] [Red-Black Tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
         - [ ] [An Introduction To Binary Search And Red Black Tree](https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/)
 
     - [ ] **2-3 search trees**
@@ -1770,7 +1769,7 @@ software engineer, and to be aware of certain technologies and algorithms, so yo
     - [ ] [For animations and a little more detail](https://en.wikipedia.org/wiki/Skip_list)
 
 - ### Network Flows
-    - [ ] [Ford-Fulkerson in 5 minutes (video)](https://www.youtube.com/watch?v=v1VgJmkEJW0)
+    - [ ] [Ford-Fulkerson in 5 minutes — Step by step example (video)](https://www.youtube.com/watch?v=Tl90tNtKvxs)
     - [ ] [Ford-Fulkerson Algorithm (video)](https://www.youtube.com/watch?v=v1VgJmkEJW0)
     - [ ] [Network Flows (video)](https://www.youtube.com/watch?v=2vhN4Ice5jI)
 
