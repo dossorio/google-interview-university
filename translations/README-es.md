@@ -1389,9 +1389,9 @@ Repos de desafíos:
 - [Interactive Coding Interview Challenges in Python](https://github.com/donnemartin/interactive-coding-challenges)
 
 Bosquejos de entrevista:
-- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/)
-- [Pramp: Mock interviews from/with peers](https://www.pramp.com/)
-- [Refdash: Mock interviews](https://refdash.com/)
+- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/) - Lo usé y me ayudó a relajarme en la conversación por teléfono y entrevista on-site
+- [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - Para practicar entrevistas de tipo igual a igual
+- [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - También ayuda evitando múltiples entrevistas con empresas tecnológicas
 
 ## Una vez cerca de la entrevista
 - [ ] Cracking The Coding Interview Set 2 (videos):
